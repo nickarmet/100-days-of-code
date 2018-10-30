@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: October 29, 2018
 
 **Today's Progress**: Began the Javascript module on freeCodeCamp
 
@@ -9,8 +8,7 @@
 
 **Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: 
 
 **Today's Progress**: 
 
@@ -19,7 +17,7 @@
 **Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 1: 
 
 **Today's Progress**: 
 
