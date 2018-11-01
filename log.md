@@ -19,9 +19,9 @@
 
 ### Day 3: 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on contributing to open source on Github for Hacktoberfest
 
-**Thoughts**: 
+**Thoughts**: Today was more relaxed, but any progress is progress
 
 **Link(s) to work**: 
 
